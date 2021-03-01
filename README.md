@@ -1,10 +1,12 @@
 # iot_door_unlock
 
 #### The Idea
-- [x] A face detector which authenticates the user
-- [ ] Then we need to see how to connect to nodemcu, in the android app
-- [ ] Then after the connection, if the user authenticates properly, we need to open the door lock
-- [ ] The door lock needs to be seen what to do or any thing like switiching on the light etc.
+Door unlock and security using the Biometric convenience of your own smartphone.
+
+#### Structure
+`base.apk` used in the video `implementation_video.mp4`.
+The Arduino code is in `lock_bluetooth.ino`.
+The main presentation in `Prototyping presentation.pdf`
 
 #### The action plan
 After planning about this, we will decide the components which need to be bought and who will be going to do the tasks. The ones which can be done remotely,
